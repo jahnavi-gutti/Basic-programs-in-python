@@ -1,6 +1,5 @@
 # python-basic-programs
 swapping two numbers</br>
-4</br>
 Matrix reading and printing</br>
 reverse a number</br>
 Factorial</br>
