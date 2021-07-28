@@ -14,3 +14,10 @@ if s==m:
     print("given no is special no")
 else:
     print("given no is not special no")
+"""o/p:
+145
+given no is special no
+35
+given no is not special no
+"""    
+   
