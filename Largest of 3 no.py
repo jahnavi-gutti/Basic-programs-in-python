@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+print(max(a,b,c))
+"""
+o/p:
+3
+8
+6
+8
+"""

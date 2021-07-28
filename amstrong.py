@@ -1,0 +1,17 @@
+n=int(input())
+l=len(str(n))
+s=0
+t=n
+while(t!=0):
+    r=t%10
+    s=s+r**l
+    t=t//10
+if(s==n):
+    print("armstrong")
+else:
+    print("not")
+"""
+o/p
+153
+Armstrong
+"""
