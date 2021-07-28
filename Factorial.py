@@ -6,3 +6,8 @@ def f(n):
     else:
         return n*f(n-1)
 print(f(n))
+"""
+o/p:
+6
+720
+"""
