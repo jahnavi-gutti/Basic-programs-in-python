@@ -9,3 +9,9 @@ if r==m:
     print("palindrome")
 else:
     print("not palindrome")
+"""
+o/p:
+121
+palindrome
+
+""""
