@@ -1,9 +1,9 @@
-# python-basic-programs
-swapping two numbers</br>
-Matrix reading and printing</br>
-reverse a number</br>
+## python-basic-programs
+*swapping two numbers</br>
+*Matrix reading and printing</br>
+*reverse a number</br>
 Factorial</br>
-sum of digits</br>
+*sum of digits</br>
 special number</br>
 Palindrome</br>
 Armstrong no</br>
