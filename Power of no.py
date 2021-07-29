@@ -1,0 +1,10 @@
+n=int(input())
+m=int(input())
+r=n**m
+print(r)
+"""
+o/p:
+2
+4
+16    
+"""
