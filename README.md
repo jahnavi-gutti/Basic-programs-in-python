@@ -1,4 +1,4 @@
-## python-basic-programs
+## Basic-programs-in -python
 swapping two numbers</br>
 Matrix reading and printing</br>
 reverse a number</br>
