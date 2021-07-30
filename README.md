@@ -26,18 +26,6 @@ Binary to decimal</br>
 Octal to decimal</br>
 Binary to octal</br>
 No of days into year,months,days</br>
-reading string</br>
-reverse a string</br>
-palindrome string</br>
-how many vowels and how many consonants in a string</br>
-string in alphabetical order</br>
-Reverse each word in a string</br>
-find duplicate characters in a string</br>
-remove duplicate characters</br>
-Anagram</br>
-Remove special characters</br>
-frequency of characters</br>
-add a string into given string</br>
 sum of elements in an array</br>
 In array even and odd we should separate both</br>
 sum of even numbers and sum of odd numbers in an array</br>
