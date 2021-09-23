@@ -7,6 +7,7 @@ sum of digits</br>
 special number</br>
 Palindrome</br>
 Armstrong no</br>
+abundant no</br>
 No of odd digits and even digits</br>
 Fibonacci series</br>
 Prime no</br>
